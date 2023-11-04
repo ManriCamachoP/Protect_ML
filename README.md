@@ -5,7 +5,7 @@
 - [About](#about)
 - [Chapters](#chapters)
 - [License](#license)
-- [Repo Author](#author)
+- [Repo Author](#Repo Author)
 
 ## About
 
