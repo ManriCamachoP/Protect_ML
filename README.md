@@ -9,7 +9,7 @@
 
 ## About
 
-Welcome to the "Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow - Chapter Exercises Solutions" repository. This project provides comprehensive solutions to the exercises and problems presented in the book "Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow" by Aurélin Géron. Our goal is to assist readers and learners in understanding and implementing the concepts presented in the book by offering step-by-step solutions.
+Welcome to the "Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow - Chapter Exercises Solutions" repository. This project provides comprehensive solutions to the exercises and problems presented in the book "Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow" by Aurélin Géron. 
 
 ## Chapters
 
