@@ -36,4 +36,4 @@ We have solutions for each of the 19 chapters in the book. Click on the chapter 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE), meaning it's open source and freely accessible. However, please be aware that our solutions are for educational purposes and should be used to supplement your learning while respecting the book's licensing terms and copyrights.
+This project is licensed under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT), meaning it's open source and freely accessible. However, please be aware that our solutions are for educational purposes and should be used to supplement your learning while respecting the book's licensing terms and copyrights.
