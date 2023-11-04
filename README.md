@@ -22,9 +22,12 @@ We have solutions for each of the 19 chapters in the book. Click on the chapter 
 - **Notes**: Additional explanations and insights related to the chapter's exercises.
 - **Resources**: References and resources that may be helpful for further understanding.
 
-### [Chapter 2: Some Other Chapter](chapter-02/)
+### [Chapter 2: End-to-End Machine Learning Project](chapter-02/)
 
-(Repeat this structure for all 19 chapters)
+- **Description**: This chapter introduces the machine learning landscape, providing an overview of what machine learning is and its practical applications.
+- **Solutions**: Find detailed solutions to the exercises in this chapter.
+- **Notes**: Additional explanations and insights related to the chapter's exercises.
+- **Resources**: References and resources that may be helpful for further understanding.
 
 ## License
 
