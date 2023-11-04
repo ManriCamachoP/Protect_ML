@@ -29,7 +29,7 @@ We have solutions for each of the 19 chapters in the book. Click on the chapter 
 - **Notes**: Additional explanations and insights related to the chapter's exercises.
 - **Resources**: References and resources that may be helpful for further understanding.
 
-## Author
+## Repo Author
 
 - **Name**: Manrique Camacho P.
 - **University**: Universidad de Costa Rica (UCR)
