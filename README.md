@@ -29,14 +29,11 @@ We have solutions for each of the 19 chapters in the book. Click on the chapter 
 - **Notes**: Additional explanations and insights related to the chapter's exercises.
 - **Resources**: References and resources that may be helpful for further understanding.
 
+## Author
+
+- **Name**: Manrique Camacho P.
+- **University**: Universidad de Costa Rica (UCR)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE), meaning it's open source and freely accessible. However, please be aware that our solutions are for educational purposes and should be used to supplement your learning while respecting the book's licensing terms and copyrights.
-
-## Author
-
-- **Name**: Manrique Camacho P
-- **University**: Universidad de Costa Rica (UCR)
-
-You can mention your name and university in the "Author" section at the end of your README. Please replace "Your Name" and "Your University" with your actual name and university details.
-
